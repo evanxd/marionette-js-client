@@ -2305,7 +2305,7 @@
         {
             "file": "lib/marionette/element.js",
             "line": 298,
-            "description": "Returns the dictionary with x and y locatioin of an element.\n\nThe returned location will be in the following format:\n\n   // returned in callback or result of this call in the sync driver.\n   {\n     x: Number,\n     y: Number\n   }",
+            "description": "Return the dictionary with x and y locatioin of an element.\n\nThe returned location will be in the following format:\n\n   // returned in callback or result of this call in the sync driver.\n   {\n     x: Number,\n     y: Number\n   }",
             "itemtype": "method",
             "name": "location",
             "params": [
